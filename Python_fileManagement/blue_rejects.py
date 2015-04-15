@@ -1,8 +1,7 @@
 #!/usr/bin/python3
 #
 # This is part of the  Nike file copy scripts. 2014
-# Written by Timothy j. Kleszczewski <Timothy.Kleszczewski@sgkinc.com>
-# Project Owner Ann Eidson <Ann.Eidson@schawk.com>
+# Written by Timothy j. Kleszczewski
 #
 
 import os
